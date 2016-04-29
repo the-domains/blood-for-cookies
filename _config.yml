@@ -1,0 +1,28 @@
+name: blood for cookies
+favicon: null
+layout_spectrum: 0.8667554026469588
+typography_spectrum: 0.6365566153544933
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.25124364253133535
+  lightness: 0.959530847845599
+  saturation: 0.18646093900315464
+  rhythmicContrast: 0.9059765138663352
+purpose: []
